@@ -1,5 +1,3 @@
-
-
 **Hi there! 👋**
 
 I'm Aryan Shoughi, a Front-end developer. I'm passionate about coding too much 😋, and I'm always looking for new ways to learn and grow.
