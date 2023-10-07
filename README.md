@@ -1,4 +1,4 @@
-![Your avatar](https://avatars.githubusercontent.com/u/Khosefin)
+
 
 **Hi there! 👋**
 
@@ -8,15 +8,15 @@ I'm also a software developer, and I love building things. I'm currently working
 
 #### My Key Skills:
 
-- 🚀 React
-- 🌐 HTML, CSS
-- 📊 ECMAScript
-- 💻 MUI
-- 🌟 TailwindCSS
+-  React
+-  HTML, CSS
+-  ECMAScript
+-  MUI
+-  TailwindCSS
 
 #### My Projects:
 
-- 🌐 [[HTML,CSS,Javascript practice project and mini projects ](https://github.com/Khosefin/learning_front)]
-- 📊 [[React and other components ](https://github.com/Khosefin/ReactJS-practices)]
+-  [[HTML,CSS,Javascript practice project and mini projects ](https://github.com/Khosefin/learning_front)]
+-  [[React and other components ](https://github.com/Khosefin/ReactJS-practices)]
 
 Thank you for visiting my profile! 😊
