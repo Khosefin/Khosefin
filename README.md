@@ -2,10 +2,10 @@
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
+- 🧞 I've been a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on myself to learn and grow more
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love game, especially CS.
+- 💡 Contributing to Open Source Projects is always been a goal for me.
+- ⚡ Fun fact: I love games, especially CS.
 <br>
 
 ---
@@ -44,10 +44,10 @@
  📔 GitHub Stats:
 </summary>
 <br>
-  <p align="center"><a href="https://github.com/Khosefin">
-    <img height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khosefin&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /></p>
-  </a>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khosefin&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="khosefin" /></p>
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khosefin&show_icons=true&locale=en&layout=compact" alt="Khosefin" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Khosefin&" alt="Khosefin" />
+</div>
 </details>
 
 ---
