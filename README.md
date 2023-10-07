@@ -1,8 +1,10 @@
-### Hello, I'm Khosefin! 👋
+![Your avatar](https://avatars.githubusercontent.com/u/Khosefin)
 
-![Link to your profile picture](https://avatars.githubusercontent.com/u/Khosefin)
+**Hi there! 👋**
 
-Welcome to my GitHub profile! I am Aryan shoughi a front-end developer.
+I'm Aryan Shoughi, a Front-end developer. I'm passionate about coding too much 😋, and I'm always looking for new ways to learn and grow.
+
+I'm also a software developer, and I love building things. I'm currently working on myself to learn and grow more, and I'm excited to see where it takes me.
 
 #### My Key Skills:
 
