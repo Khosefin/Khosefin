@@ -37,7 +37,7 @@
 <code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="TypeScript"></a></code> &#160
 <code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a></code> &#160
 <code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a></code> &#160
-<code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></a></code> &#160
+<code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/next%20js-00C58E?style=for-the-badge&logo=nextdotjs&logoColor=white"></a></code> &#160
 </details>
 
 <br>
