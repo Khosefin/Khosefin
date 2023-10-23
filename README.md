@@ -23,6 +23,8 @@
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a></code> &#160
 <br/><br/> <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="30"/> </a></code> &#160  <code> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" height="30"/> </a> </code>
  &#160<code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"></a></code> 
+<code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a></code> &#160
+<code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a></code> &#160
  
 
 </details>
@@ -33,10 +35,8 @@
   🌱 Looking forward to learn:
 </summary>
    <br>
-<code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a></code> &#160
 <code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="TypeScript"></a></code> &#160
 <code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a></code> &#160
-<code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a></code> &#160
 <code><a href="#" target="_blank"><img height="30" src="https://img.shields.io/badge/next%20js-00C58E?style=for-the-badge&logo=nextdotjs&logoColor=white"></a></code> &#160
 </details>
 
