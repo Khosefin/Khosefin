@@ -1,4 +1,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Im Khosefin</h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khosefin&style=flat-square&color=green" />
+  <a href="https://linkedin.com/in/aryan-shoughi-658015288">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/khosefin">
+    <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white" />
+  </a>
+  <a href="arianshoughi@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/khosefin">
+    <img src="https://img.shields.io/badge/instagram-purple?logo=instagram&logoColor=white" />
+  </a>
+</div>
+</br>
 
 <h3>Little facts about me 🧑</h3>
 
