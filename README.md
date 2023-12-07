@@ -1,6 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Im Khosefin</h1>
+
+<h1 align="center">Hey there 👋</h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khosefin&style=flat-square&color=green" />
+ <img src="https://komarev.com/ghpvc/?username=Khosefin&style=flat-square&color=green" />
   <a href="https://linkedin.com/in/aryan-shoughi-658015288">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
@@ -14,60 +15,57 @@
     <img src="https://img.shields.io/badge/instagram-purple?logo=instagram&logoColor=white" />
   </a>
 </div>
-
-
-<h3>Little facts about me 🧑</h3>
-
-- 🧞 I've been a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on myself to learn and grow more
-- 💡 Contributing to Open Source Projects is always been a goal for me.
-- ⚡ Fun fact: I love games, especially CS.
-
-
----
-
-<details open="">
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> &#160
-<img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&#160
-<img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> &#160
-<img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &#160 </br> </br>
-<img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> &#160
-<img height="30" src="https://img.shields.io/badge/next%20js-00C58E?style=for-the-badge&logo=nextdotjs&logoColor=white">&#160
-<img height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> &#160 </br> </br>
-<img height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /> &#160
-<img height="30" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"> &#160
-<img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> &#160
-<img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">&#160
- 
-
-</details>
-
----
-
-
 </br>
+<p align="center"> My name is Khosefin. I am a front-end developer. I am always eager to learn new technologies and best practices. I have a passion for creating beautiful and functional web experiences. With a solid foundation, I strive to bring designs to life with clean and efficient code. </p>
+
+
+<h1 align="center">🔥 my skills : </h1>
 <div align="center">
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=khosefin&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khosefin&layout=compact&theme=radical" />
+  
+  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColo)
+  ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+  ![Github](https://img.shields.io/badge/-Github-000?&logo=github)
+  ![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js)
+  </div>
+<div align="center">
+
+  ![MUI](https://img.shields.io/badge/MUI-000?&logo=mui)
+  ![TypeScript](https://img.shields.io/badge/typescript-000?&logo=typescript)
+  ![Redux](https://img.shields.io/badge/redux-000?&logo=redux&logoColor=purple)
+  ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+  ![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
+
+</div>
+<div align="center">
+  
+  ![bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
+  ![Axios](https://img.shields.io/badge/-Axios-000?&logo=Axios)
+  ![Figma](https://img.shields.io/badge/figma-000?&logo=figma)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000?&logo=Adobe%20XD&logoColor=#FF61F6)
+  
 </div>
 
 
-<!-- <h4> Connect with me🤝: <h4>
-  <a href="https://www.linkedin.com/in/arianshoughi/">
-   <img align="left" alt=" Khosefin | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="Arianshoughi@gmail.com">
-    <img align="left" alt="Khosefin | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://www.instagram.com/Khosefin/">
-    <img align="left" alt="khosefin | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://github.com/Khosefin">
-    <img align="left" alt="Khosefin | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>  -->
+<div align="center">
+  
+  ![vscode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
+  ![WebStorm](https://img.shields.io/badge/webstorm-143?&logo=webstorm&logoColor=white&color=black)
+    <br/>
+</div>
 
+## Top Open Source
+<br/>
+<div align="center">
+  
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Khosefin&repo=Ganjoor_v2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Khosefin/Ganjoor_v2)
+[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Khosefin&repo=Nution-task-text-editor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](hhttps://github.com/Khosefin/Nution-task-text-editor)
+</div>
+<h1></h1>
+<div align="center">
+  <br/>
+    <a href="https://github.com/Khosefin"><img alt="Khosefin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Khosefin&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="40%"/></a>
+  <a href="https://github.com/Khosefin"><img alt="Khosefin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Khosefin&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="40%"/></a>
+</div>
 
