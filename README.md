@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋</h1>
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=Khosefin&style=flat-square&color=green" />
-  <a href="https://linkedin.com/in/aryan-shoughi-658015288">
+  <a href="https://linkedin.com/in/aryan-shoughi-00b5512bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/khosefin">
