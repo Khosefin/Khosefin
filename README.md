@@ -18,8 +18,9 @@
 </br>
 <h1 align="center"><a href="https://Khosefin.liara.run">Click to see My portfolio</a></h1>
 <p align="center"> My name is Khosefin. I am a front-end developer. I am always eager to learn new technologies and best practices. I have a passion for creating beautiful and functional web experiences. With a solid foundation, I strive to bring designs to life with clean and efficient code. </p>
-
-
+<div align="center">
+<img alt="codewars" src="https://www.codewars.com/users/Khosefin/badges/large" align='center' ></img>
+</div>
 <h1 align="center">🔥 my skills : </h1>
 <div align="center">
   
